@@ -1,5 +1,3 @@
-# Branch_RAG
-
 ## Branched RAG: Advanced Retrieval-Augmented Generation
 
 ### 1. Introduction
